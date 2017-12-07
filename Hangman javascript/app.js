@@ -1,6 +1,16 @@
 
+
+
+// Create Constructor
+	// Word Variables
+	// array of possible words to pick from
+
+	
+
 // start playing the game
+	
 // initialize a var guessesLeft
+
 // get a random word from a list of words
 
 // save the word to an object
@@ -17,27 +27,6 @@
 //         "a", "b", "c"
 //     }
 // }
-
-
-// Word
-// create all the letters
-// guess method - check all letters (at least one)
-// print solution
-// print guessed progress with the blanks
-// check if youve solved the whole word
-
-
-
-
-// Letter
-// guess(char) - is this myself?
-// printMe (prints _ or the letter if already guessed)
-// printSolution - prints letter no matter if guessed
-
-
-
-
-
 
 
 
